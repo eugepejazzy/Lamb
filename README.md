@@ -1,0 +1,2 @@
+# Lamb
+Learn coding 
